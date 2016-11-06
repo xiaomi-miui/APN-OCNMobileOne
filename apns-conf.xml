@@ -15111,6 +15111,28 @@
         user="mio@iij"
     />
 
+    <apn carrier="OCNMobileOne-LTE"
+        mcc="440"
+        mnc="10"
+        apn="lte-d.ocn.ne.jp"
+        authtype="3"
+        mmsc=""
+        password="mobile"
+        server=""
+        user="mobileid@ocn"
+    />
+
+    <apn carrier="OCNMobileOne-3G"
+        mcc="440"
+        mnc="10"
+        apn="3g-d-2.ocn.ne.jp"
+        authtype="3"
+        mmsc=""
+        password="mobile"
+        server=""
+        user="mobileid@ocn"
+    />
+
     <apn carrier="mopera U"
         mcc="440"
         mnc="10"
